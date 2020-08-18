@@ -1,0 +1,162 @@
+[
+  {
+    "filename": "light-dist-hp.thrl6p",
+    "name": "Light Distortion HP",
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR30_Stealth",
+        "Bass": 0.466667,
+        "Drive": 0.286275,
+        "Master": 0.643137,
+        "Mid": 0.333333,
+        "Treble": 0.803922
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "@enabled": false,
+        "Level": "",
+        "Sustain": ""
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": true
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": true
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "LargePlate1",
+        "@enabled": true
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    },
+    "metadata": {
+      "author": "Anonymous",
+      "description": "NA",
+      "tags": null
+    }
+  },
+  {
+    "filename": "liquid-solo-hp.thrl6p",
+    "name": "Liquid Solo HP",
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR10X_Brown2",
+        "Bass": 0.546916,
+        "Drive": 0.562141,
+        "Master": 0.726234,
+        "Mid": 0.653054,
+        "Treble": 0.422637
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "@enabled": false,
+        "Level": "",
+        "Sustain": ""
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": false
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": true
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "SmallRoom1",
+        "@enabled": true
+      },
+      "global": {
+        "THRPresetParamTempo": 780
+      }
+    },
+    "metadata": {
+      "author": "Anonymous",
+      "description": "NA",
+      "tags": null
+    }
+  },
+  {
+    "filename": "roomy-djent.thrl6p",
+    "name": "Roomy Djent",
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR30_Stealth",
+        "Bass": 0.470588,
+        "Drive": 0.392157,
+        "Master": 0.866667,
+        "Mid": 0.470588,
+        "Treble": 0.619608
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "@enabled": false,
+        "Level": "",
+        "Sustain": ""
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": false
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": false
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "ReallyLargeHall",
+        "@enabled": true
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    },
+    "metadata": {
+      "author": "warmans",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "filename": "sanitarium.thrl6p",
+    "name": "USER MEMORY 1",
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR30_Blondie",
+        "Bass": 0.321569,
+        "Drive": 0.305882,
+        "Master": 0.572549,
+        "Mid": 0.478431,
+        "Treble": 0.564706
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "@enabled": false,
+        "Level": "",
+        "Sustain": ""
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": false
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": false
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "SmallRoom1",
+        "@enabled": true
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    },
+    "metadata": {
+      "author": "Anonymous",
+      "description": "NA",
+      "tags": null
+    }
+  }
+]
